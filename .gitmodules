@@ -1,0 +1,6 @@
+[submodule "QuaiAntiqueRestaurantFront"]
+	path = QuaiAntiqueRestaurantFront
+	url = ./QuaiAntiqueRestaurantFront
+[submodule "studi-restaurant-symfony-lts-api"]
+	path = studi-restaurant-symfony-lts-api
+	url = ./QuaiAntiqueRestaurantBack/studi-restaurant-symfony-lts-api
