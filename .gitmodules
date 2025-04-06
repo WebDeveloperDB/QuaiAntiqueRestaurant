@@ -1,6 +1,0 @@
-[submodule "QuaiAntiqueRestaurantFront"]
-	path = QuaiAntiqueRestaurantFront
-	url = https://github.com/WebDeveloperDB/QuaiAntiqueRestaurantFront.git
-[submodule "studi-restaurant-symfony-lts-api"]
-	path = studi-restaurant-symfony-lts-api
-	url = https://github.com/WebDeveloperDB/QuaiAntiqueRestaurantBack.git
