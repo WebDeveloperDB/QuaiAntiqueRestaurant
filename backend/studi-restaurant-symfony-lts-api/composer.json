@@ -1,0 +1,6 @@
+{
+    "require": {
+        "doctrine/mongodb-odm-bundle": "^5.2",
+        "symfony/framework-bundle": "^7.2"
+    }
+}

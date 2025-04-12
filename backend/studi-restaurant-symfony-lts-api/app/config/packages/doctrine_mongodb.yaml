@@ -1,0 +1,15 @@
+doctrine_mongodb:
+    connections:
+        default:
+            server: '%env(MONGODB_URL)%'
+            options: {}
+    default_database: '%env(MONGODB_DATABASE)%'
+    document_managers:
+        default:
+            auto_mapping: true
+            mappings:
+                App:
+                    type: attribute
+                    dir: '%kernel.project_dir%/src/Document'
+                    prefix: 'App\Document'
+                    is_bundle: false
